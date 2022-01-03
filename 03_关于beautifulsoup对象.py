@@ -36,18 +36,6 @@ html='''
             <li>
                 <a href="javascript:;">你好，请登录</a>
                 <a href="javascript:;" style="color: #f10215;">免费注册</a>
-            </li>
-
-            <li class="line"></li>
-            <li><a href="javascript:;">我的订单</a></li>
-
-            <li class="line"></li>
-            <li>
-                <a href="javascript:;">我的京东</a>
-                <i class="fa fa-angle-down"></i>
-            </li>
-
-
             <li class="line"></li>
             <li>
                 <a href="javascript:;">京东会员</a>
