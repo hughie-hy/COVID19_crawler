@@ -1,7 +1,7 @@
 import json
 
 # json字符串转python数据
-json_str = '''[
+json_string = '''[
   {
     "a": "thia is a",
     "b": [1, 2, 3]
@@ -12,7 +12,7 @@ json_str = '''[
   }
 ]'''
 
-rs = json.loads(json_str)
+rs = json.loads(json_string)
 print(rs)
 print(type(rs))  # <class 'list'>
 print(type(rs[0]))  # <class 'dict'>
