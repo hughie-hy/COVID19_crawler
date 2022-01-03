@@ -9,7 +9,7 @@ print(rs)
 
 # 分组的使用
 rs = re.findall('\d{1,2}','chuan13zhi2')
-rs = re.findall('aaa(\d+)b','aaa91b')
+rs = re.findall('aaa(\d+)b','aaa19b')
 print(rs)
 
 # 一般的正则表达式匹配一个\需要四个\
